@@ -1,7 +1,7 @@
 name: CrueKnight
 favicon: null
-layout_spectrum: 0.8460113650653511
-typography_spectrum: 0.6290015326812863
+layout_spectrum: 0.96212
+typography_spectrum: 0.10104
 title: A Crusader Knight.
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.06312606949359179
-  lightness: 0.3278129177633673
-  saturation: 0.3336800264660269
-  rhythmicContrast: 0.32614996028132737
+  brandStrength: 0.125
+  lightness: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
