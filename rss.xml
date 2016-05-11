@@ -4,7 +4,7 @@
         <description><![CDATA[A Crusader Knight.]]></description>
         <link>https://thegrid.ai/crueknight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 00:57:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 00:58:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/crueknight/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Favorites - YouTube]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.youtube.com/playlist?list=FLfKt4SWbHottH1AUto4Xzwg</link>
             <guid isPermaLink="false">617e1a8b-8e49-4f86-a2f4-6f39a9f47a24</guid>
             <pubDate>Wed, 11 May 2016 00:57:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What would this program entail?]]></title>
-            <description><![CDATA[<article><h1>What would this program entail?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d61a0cf-84cd-4452-bd8a-348513246f2a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/crueknight/what-would-this-program-entail/index.html</link>
-            <guid isPermaLink="false">0cf5345b-5e70-4e77-a5ce-cc386578a926</guid>
-            <pubDate>Mon, 09 May 2016 22:24:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
