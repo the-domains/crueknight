@@ -16,8 +16,8 @@ keywords:
   - lip
   - teen
 description: 'Sign in now to see your channels and recommendations!'
-datePublished: '2016-05-11T00:57:03.026Z'
-dateModified: '2016-05-11T00:57:00.350Z'
+datePublished: '2016-05-11T00:58:22.329Z'
+dateModified: '2016-05-11T00:57:12.082Z'
 author:
   - avatar: {}
 related: []
@@ -31,6 +31,7 @@ app_links:
     namespace: google
     type: ios
 title: Favorites - YouTube
+sourcePath: _posts/2016-05-11-favorites-youtube.md
 authors: []
 publisher:
   name: YouTube
@@ -38,7 +39,6 @@ publisher:
   url: 'http://youtube.com'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-sourcePath: _posts/2016-05-11-favorites-youtube.md
 _type: VideoObject
 _context: 'http://schema.org'
 
