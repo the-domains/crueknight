@@ -1,13 +1,13 @@
 ---
-description: ''
-dateModified: '2016-08-19T01:19:21.104Z'
-datePublished: '2016-08-19T01:19:25.492Z'
-title: 'Welcome to Oaxaca, Mexico.'
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-19T01:21:02.889Z'
 sourcePath: _posts/2016-08-19-welcome-to-oaxaca-mexico.md
+author: []
+via: {}
+dateModified: '2016-08-19T01:21:02.410Z'
+title: 'Welcome to Oaxaca, Mexico.'
+publisher: {}
+description: ''
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
