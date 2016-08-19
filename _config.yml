@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: About me.
-    id: d1306323-bfea-46bc-8e1d-24fd4d38a683
-    type: content
 favicon: null
 title: A Crusader Knight.
 description: 100% Organic.
